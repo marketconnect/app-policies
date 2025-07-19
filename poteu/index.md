@@ -3,7 +3,7 @@
 **Last Updated:** July 19, 2025
 
 **1. Introduction**
-This Privacy Policy outlines the practices for applications developed by **b8o** (the “Developer”). This policy applies to all applications published by the Developer, including but not limited to “ПОТЭЭ-903н-2022”, “782н”, and “ПТЭЭП” (collectively, the “App” or “Apps”). The Developer is committed to protecting your privacy.
+This Privacy Policy outlines the practices for applications developed by **b8o** (the “Developer”). This policy applies to all applications published by the Developer, including but not limited to “ПОТЭЭ-903н-2022”, “782н”, and “ПТЭЭП 2025 • Электроустановки” (collectively, the “App” or “Apps”). The Developer is committed to protecting your privacy.
 
 **2. Disclaimer and Source of Information**
 It is crucial to understand the following:
