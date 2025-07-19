@@ -1,10 +1,9 @@
-
 **Privacy Policy**
 
 **Last Updated:** July 19, 2025
 
 **1. Introduction**
-Welcome to the regulatory reference applications for Android developed by Bogachenko Ivan (the "Developer"). This Privacy Policy applies to all applications published by the Developer, including but not limited to "ПОТЭЭ-903н-2022", "782н", and "ПТЭЭП" (collectively, the "App" or "Apps"). The Developer is committed to protecting your privacy.
+This Privacy Policy outlines the practices for applications developed by **b8o** (the “Developer”). This policy applies to all applications published by the Developer, including but not limited to “ПОТЭЭ-903н-2022”, “782н”, and “ПТЭЭП” (collectively, the “App” or “Apps”). The Developer is committed to protecting your privacy.
 
 **2. Disclaimer and Source of Information**
 It is crucial to understand the following:
@@ -25,7 +24,7 @@ It is crucial to understand the following:
 
 **4. Your Rights and Data Control**
 Since all data resides only on your device, you have full control over it. You can delete this data at any time by:
-1.  **Clearing App Data:** Go to your Android "Settings," navigate to "Apps," select **"[App Name]"** (the name of the specific application you have installed), and use the "Clear Cache" and "Clear Data" options.
+1.  **Clearing App Data:** Go to your Android “Settings,” navigate to “Apps,” select the specific application you have installed (e.g., "ПОТЭЭ-903н-2022"), and use the “Clear Cache” and “Clear Data” options.
 2.  **Uninstalling the App:** Uninstalling the application from your device will permanently delete all of its associated data.
 
 **5. Security**
@@ -34,9 +33,12 @@ We are committed to ensuring the app is secure. If you discover any security vul
 **6. Changes to This Privacy Policy**
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this page periodically for any changes.
 
-**7. Contact Us**
+**7. Developer and Contact Information**
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me.
 
-**Bogachenko Ivan**
+**Google Play Developer:** **b8o**
+**Contact Person:** Bogachenko Ivan
 Saint Petersburg, Russia
 Email: bogachencoivan@gmail.com
+
+---
