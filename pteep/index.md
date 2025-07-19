@@ -1,9 +1,9 @@
 **Privacy Policy for ПОТЭЭ-903н-2022**
 
-**Last Updated:** July 19, 2025
+**Last Updated:** July 16, 2025
 
 **1. Introduction**
-Welcome to the "ПТЭЭП 2025 • Электроустановки" app for Android! The developer, Bogachenko Ivan, is committed to protecting your privacy. This Privacy Policy explains what data we do NOT collect and how you can manage any data created by the app on your device.
+Welcome to the "ПОТЭЭ-903н-2022" app for Android! The developer, Bogachenko Ivan, is committed to protecting your privacy. This Privacy Policy explains what data we do NOT collect and how you can manage any data created by the app on your device.
 
 **2. Disclaimer and Source of Information**
 It is crucial to understand the following:
@@ -24,7 +24,7 @@ It is crucial to understand the following:
 
 **4. Your Rights and Data Control**
 Since all data resides only on your device, you have full control over it. You can delete this data at any time by:
-1.  **Clearing App Data:** Go to your Android "Settings," navigate to "Apps," select "ПТЭЭП," and use the "Clear Cache" and "Clear Data" options.
+1.  **Clearing App Data:** Go to your Android "Settings," navigate to "Apps," select "ПОТЭЭ-903н-2022," and use the "Clear Cache" and "Clear Data" options.
 2.  **Uninstalling the App:** Uninstalling the application from your device will permanently delete all of its associated data.
 
 **5. Security**
