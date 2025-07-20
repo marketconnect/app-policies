@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-**Last Updated:** July 19, 2025
+**Last Updated:** July 20, 2025
 
 **1. Introduction**
 This Privacy Policy outlines the practices for applications developed by **b8o** (the “Developer”). This policy applies to all applications published by the Developer, including but not limited to “ПОТЭЭ-903н-2022”, “782н”, and “ПТЭЭП 2025 • Электроустановки” (collectively, the “App” or “Apps”). The Developer is committed to protecting your privacy.
@@ -13,19 +13,24 @@ It is crucial to understand the following:
 
 **3. Data Collection and Usage**
 
-*   **What Data We Do NOT Collect:**
-    We do not collect, store, use, or share any of your personal or sensitive information. This includes, but is not limited to, your name, email address, phone number, location, contacts, device files, or usage analytics.
+**3.1. Data Stored Locally on Your Device**
+The App stores certain data **exclusively on your device's internal storage** to save your preferences and progress. This includes settings like your chosen theme, font size, bookmarks, or notes. This data is never transmitted to the Developer or any third party and is fully under your control.
 
-*   **What Data is Stored on Your Device:**
-    The only data the App may create are your local preferences (e.g., selected theme, bookmarks, or study progress). This data is stored **exclusively on your device's internal storage** and is never transmitted to the Developer or any third party.
+**3.2. Third-Party Services: Crash Reporting with Sentry**
+To improve the stability and performance of our Apps, we use a third-party service for error and crash monitoring called **Sentry** (provided by Functional Software, Inc.). This is the only third-party service used in the App.
 
-*   **Third-Party Services:**
-    This App **does not use** any third-party services for analytics, advertising, crash reporting, or any other purpose. All functionality is self-contained within the application.
+*   **Purpose:** Sentry helps us diagnose and fix technical problems in real-time. When the App crashes or encounters an error, Sentry automatically collects diagnostic data.
+*   **Data Collected:** The information sent to Sentry is strictly for technical diagnostics and may include crash logs, device information (such as model, OS version, and orientation), and any other relevant data.
+*   **Data Usage:** This data is used exclusively to identify the cause of the error and improve the App's stability. We do not use this information to personally identify you.
+
+For more details on how Sentry handles data, you can review **Sentry's Privacy Policy** here: [https://sentry.io/privacy/](https://sentry.io/privacy/)
 
 **4. Your Rights and Data Control**
-Since all data resides only on your device, you have full control over it. You can delete this data at any time by:
+You have full control over the data stored locally on your device. You can delete this data at any time by:
 1.  **Clearing App Data:** Go to your Android “Settings,” navigate to “Apps,” select the specific application you have installed (e.g., "ПОТЭЭ-903н-2022"), and use the “Clear Cache” and “Clear Data” options.
 2.  **Uninstalling the App:** Uninstalling the application from your device will permanently delete all of its associated data.
+
+Data collected by Sentry for crash reporting is handled according to their data retention policies.
 
 **5. Security**
 We are committed to ensuring the app is secure. If you discover any security vulnerability, please contact me via email. I am committed to promptly addressing and resolving any concerns.
@@ -40,5 +45,3 @@ If you have any questions or suggestions about this Privacy Policy, do not hesit
 **Contact Person:** Bogachenko Ivan
 Saint Petersburg, Russia
 Email: bogachencoivan@gmail.com
-
----
