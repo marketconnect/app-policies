@@ -3,7 +3,7 @@
 **Last Updated:** August 18, 2025
 
 **1. Introduction**
-This Privacy Policy outlines the practices for applications developed by **b8o** (the “Developer”). This policy applies to all applications published by the Developer, including but not limited to “ПОТЭЭ-903н-2022”, “782н”, “ФЗ-116: Промбез офлайн”,“ ППР 1479: Правила пож.режима”, and “ПТЭЭП 2025 • Электроустановки” (collectively, the “App” or “Apps”). The Developer is committed to protecting your privacy.
+This Privacy Policy outlines the practices for applications developed by **b8o** (the "Developer"). This policy applies to all applications published by the Developer, including but not limited to "ПОТЭЭ-903н-2022", "782н", "ФЗ-116: Промбез офлайн"," ППР 1479: Правила пож.режима", and "ПТЭЭП 2025 • Электроустановки" (collectively, the "App" or "Apps"). The Developer is committed to protecting your privacy.
 
 **2. Disclaimer and Source of Information**
 It is crucial to understand the following:
@@ -23,7 +23,7 @@ To provide and manage paid subscriptions, the App generates and stores a **uniqu
 
 **3.3. Paid Services and Payment Processing**
 Our Apps offer paid subscriptions that provide access to additional features and content.
-*   **Important:** All payments are processed through an external, trusted third-party payment provider (e.g., YooKassa, Tinkoff). To make a payment, you will be redirected to the secure web page of this provider.
+*   **Important:** All payments are processed through an external, trusted third-party payment provider Tinkoff. To make a payment, you will be redirected to the secure web page of this provider.
 *   **Security:** Our App **does not collect, process, or store** your credit card details or other financial information. We only receive a confirmation of a successful or failed payment from the payment gateway, which is linked to your unique user identifier.
 
 **3.4. Third-Party Services: Crash Reporting with Sentry**
@@ -34,7 +34,7 @@ To improve the stability and performance of our Apps, we use a third-party servi
 
 **4. Your Rights and Data Control**
 You have full control over the data stored locally on your device. You can delete this data at any time by:
-1.  **Clearing App Data:** Go to your Android “Settings,” navigate to “Apps,” select the specific application, and use the “Clear Cache” and “Clear Data” options.
+1.  **Clearing App Data:** Go to your Android "Settings," navigate to "Apps," select the specific application, and use the "Clear Cache" and "Clear Data" options.
 2.  **Uninstalling the App:** Uninstalling the application will permanently delete all of its associated data.
 
 **5. Security**
@@ -72,7 +72,7 @@ If you have any questions or suggestions about this Privacy Policy, do not hesit
 
 **3.3. Платные услуги и обработка платежей**
 Наши Приложения предлагают платные подписки, которые предоставляют доступ к дополнительным функциям и контенту.
-*   **Важно:** Все платежи обрабатываются через внешнего, надежного поставщика платежных услуг (например, ЮKassa, Tinkoff). Для совершения платежа вы будете перенаправлены на защищенную веб-страницу этого поставщика.
+*   **Важно:** Все платежи обрабатываются через внешнего, надежного поставщика платежных услуг Tinkoff. Для совершения платежа вы будете перенаправлены на защищенную веб-страницу этого поставщика.
 *   **Безопасность:** Наше Приложение **не собирает, не обрабатывает и не хранит** данные вашей банковской карты или другую финансовую информацию. Мы получаем от платежной системы только подтверждение об успешном или неуспешном платеже, привязанное к вашему уникальному идентификатору пользователя.
 
 **3.4. Сторонние сервисы: Отчеты о сбоях (Sentry)**
