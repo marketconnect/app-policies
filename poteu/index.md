@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-**Last Updated:** July 20, 2025
+**Last Updated:** August 18, 2025
 
 **1. Introduction**
 This Privacy Policy outlines the practices for applications developed by **b8o** (the “Developer”). This policy applies to all applications published by the Developer, including but not limited to “ПОТЭЭ-903н-2022”, “782н”, “ФЗ-116: Промбез офлайн”,“ ППР 1479: Правила пож.режима”, and “ПТЭЭП 2025 • Электроустановки” (collectively, the “App” or “Apps”). The Developer is committed to protecting your privacy.
@@ -49,7 +49,7 @@ If you have any questions or suggestions about this Privacy Policy, do not hesit
 
 **Политика конфиденциальности**
 
-**Дата последнего обновления:** 20 июля 2025 г.
+**Дата последнего обновления:** 18 августа 2025 г.
 
 **1. Введение**
 Настоящая Политика конфиденциальности описывает практики для приложений, разработанных **b8o** («Разработчик»). Политика распространяется на все приложения, опубликованные Разработчиком, включая, но не ограничиваясь: «ПОТЭЭ-903н-2022», «782н», «ФЗ-116: Промбез офлайн», «ППР 1479: Правила пож.режима» и «ПТЭЭП 2025 • Электроустановки» (совместно именуемые «Приложение» или «Приложения»). Разработчик обязуется защищать вашу конфиденциальность.
