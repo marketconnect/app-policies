@@ -26,16 +26,34 @@ Our Apps offer paid subscriptions that provide access to additional features and
 *   **Important:** All payments are processed through an external, trusted third-party payment provider Tinkoff. To make a payment, you will be redirected to the secure web page of this provider.
 *   **Security:** Our App **does not collect, process, or store** your credit card details or other financial information. We only receive a confirmation of a successful or failed payment from the payment gateway, which is linked to your unique user identifier.
 
-**3.4. Third-Party Services: Crash Reporting with Sentry**
-To improve the stability and performance of our Apps, we use a third-party service for error and crash monitoring called **Sentry** (provided by Functional Software, Inc.).
-*   **Purpose:** Sentry helps us diagnose and fix technical problems. When the App crashes or encounters an error, Sentry automatically collects diagnostic data.
-*   **Data Collected:** The information sent to Sentry is strictly for technical diagnostics and may include crash logs and device information (such as model and OS version). We do not use this information to personally identify you.
-*   For more details, you can review **Sentry's Privacy Policy**: [https://sentry.io/privacy/](https://sentry.io/privacy/)
+**3.4. Third-Party Services: Advertising and Analytics with Yandex Mobile Ads and AppMetrica**
+
+Our Apps may use Yandex Mobile Ads and AppMetrica services provided by Yandex to display advertisements, measure ad performance, analyze app stability, and improve the quality of the Apps.
+
+These services may automatically collect and transmit technical data from your device, including device or other identifiers such as the Android Advertising ID when available, app and device information, operating system version, crash and diagnostic information, and other technical performance data.
+
+The data is used for advertising or marketing, analytics, app performance measurement, and diagnostics. This data may be transmitted to and processed by Yandex according to Yandex’s applicable privacy and data processing terms.
+
+We do not use this data to personally identify you.
+
+**3.5. Third-Party Services: Crash Reporting with Sentry**
+
+To improve the stability and performance of our Apps, we use a third-party service for error and crash monitoring called Sentry, provided by Functional Software, Inc.
+
+Sentry helps us diagnose and fix technical problems. When the App crashes or encounters an error, Sentry may automatically collect diagnostic data, including crash logs, stack traces, device model, operating system version, app version, and other technical information related to the error.
+
+We use this information only for technical diagnostics and app improvement. We do not use this information to personally identify you.
+
+For more details, you can review Sentry’s Privacy Policy: https://sentry.io/privacy/
 
 **4. Your Rights and Data Control**
-You have full control over the data stored locally on your device. You can delete this data at any time by:
-1.  **Clearing App Data:** Go to your Android "Settings," navigate to "Apps," select the specific application, and use the "Clear Cache" and "Clear Data" options.
-2.  **Uninstalling the App:** Uninstalling the application will permanently delete all of its associated data.
+
+You have full control over the data stored locally on your device. You can delete this data at any time by clearing the App data in Android settings or by uninstalling the App.
+
+You may also contact the Developer by email to request deletion of data associated with your anonymous identifier, where such deletion is technically possible and legally permitted.
+
+Please note that some data processed by third-party services, such as advertising, analytics, crash reporting, or payment providers, may be controlled by those third-party providers and processed according to their own privacy policies.
+
 
 **5. Security**
 We are committed to ensuring the app is secure. If you discover any security vulnerability, please contact me via email.
